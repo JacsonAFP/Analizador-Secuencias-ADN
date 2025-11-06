@@ -4,20 +4,20 @@ Analizador Básico de Secuencias de ADN
 
     Este proyecto fue creado como parte de mi portafolio de bioinformática.
 
-    ## Funcionalidades
+      Funcionalidades
 
     *   Lee una única secuencia desde un archivo `.fasta`.
     *   Calcula la longitud total de la secuencia en pares de bases (pb).
     *   Calcula el contenido porcentual de Guanina y Citosina (GC).
     *   Traduce la secuencia de ADN a su correspondiente secuencia de proteína.
 
-    ## Herramientas Utilizadas
+      Herramientas Utilizadas
 
     *   Python 3.9
     *   Biopython
     *   Anaconda
 
-    ## Cómo Usarlo
+      Cómo Usarlo
 
     Sigue estos pasos para ejecutar el programa en tu propia máquina.
 
@@ -39,7 +39,7 @@ Analizador Básico de Secuencias de ADN
         python analizador_adn.py
         ```
 
-    ## Salida de Ejemplo
+       Salida de Ejemplo
 
     ```
     ==================================================
