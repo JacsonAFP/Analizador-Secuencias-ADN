@@ -1,5 +1,5 @@
 markdown
-    # 🔬 Analizador Básico de Secuencias de ADN
+    #Analizador Básico de Secuencias de ADN
 
     Un script simple creado con Python y la librería Biopython para realizar un análisis fundamental de secuencias de ADN a partir de un archivo en formato FASTA.
 
@@ -44,11 +44,11 @@ markdown
 
     ```
     ==================================================
-    🔬 ANÁLISIS DE LA SECUENCIA: secuencia_prueba_gen_ABC1
+    ANÁLISIS DE LA SECUENCIA: secuencia_prueba_gen_ABC1
     ==================================================
 
-    🧬 Longitud de la secuencia de ADN: 562 pb
-    📊 Contenido GC: 33.45 %
+    Longitud de la secuencia de ADN: 562 pb
+    Contenido GC: 33.45 %
 
     --------------------------------------------------
 
