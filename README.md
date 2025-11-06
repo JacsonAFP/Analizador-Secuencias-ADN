@@ -1,5 +1,4 @@
-markdown
-    #Analizador Básico de Secuencias de ADN
+Analizador Básico de Secuencias de ADN
 
     Un script simple creado con Python y la librería Biopython para realizar un análisis fundamental de secuencias de ADN a partir de un archivo en formato FASTA.
 
